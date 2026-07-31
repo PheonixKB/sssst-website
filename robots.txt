@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanskruti-samaj-sevatrust.github.io/sitemap.xml
